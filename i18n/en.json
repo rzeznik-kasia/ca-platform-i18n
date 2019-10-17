@@ -419,7 +419,7 @@
   "SECURITY_POLICY_ALREADY_EXISTS_TITLE": "Security policy already exists",
   "SECURITY_POLICY_ALREADY_EXISTS_BODY": "Security policy with name: {{securityPolicyName}} already exists",
   "SECURITY_POLICY_ALERT_INFO": "Security policy alert is triggered when any condition is fulfilled",
-  "EDIT_SECURITY_POLICY" : "Edit security policy",
+  "EDIT_SECURITY_POLICY" : "Edit security policy ({{securityPolicyName}})",
   "SECURITY_POLICY_UPDATED_TITLE" : "Security policy updated",
   "SECURITY_POLICY_UPDATED_BODY" : "Security policy has been updated successfully",
   "SECURITY_POLICY_NOT_FOUND_TITLE" : "Not found",
