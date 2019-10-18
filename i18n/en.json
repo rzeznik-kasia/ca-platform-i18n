@@ -424,6 +424,8 @@
   "SECURITY_POLICY_UPDATED_BODY" : "Security policy has been updated successfully",
   "SECURITY_POLICY_NOT_FOUND_TITLE" : "Not found",
   "SECURITY_POLICY_NOT_FOUND_BODY" : "Security policy was not found",
+  "SECURITY_POLICY_CONCURRENT_UPDATE_TITLE": "Concurent update detected",
+  "SECURITY_POLICY_CONCURRENT_UPDATE_BODY": "Security policy can not be updated",
   "ADD_THRESHOLD" : "Add threshold",
   "ADD_CONDITION": "Add condition",
   "DURATION": "Duration",
