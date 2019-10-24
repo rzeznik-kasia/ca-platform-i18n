@@ -242,8 +242,6 @@
   "IMPORT_DEVICE_FROM_REPOSITORY": "Import device from repository",
   "DEFINE_DEVICE_BY_YOURSELF": "Define device by yourself",
   "NEXT": "Next",
-  "TAG_RESTRICTIONS": "Tag should contain only letters, digits, `_` and `-`",
-  "CHOOSE_YOUR_DEVICE": "Choose your device:",
   "CHOOSE_YOUR_REPOSITORY": "Choose your repository with devices",
   "NO_REPOSITORIES_FOUND": "No repositories found.",
   "SELECTED_DEVICES": "Selected devices",
