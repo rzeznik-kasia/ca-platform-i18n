@@ -434,7 +434,7 @@
   "SECURITY_POLICY_NOT_FOUND_BODY" : "Security policy was not found",
   "SECURITY_POLICY_CONCURRENT_UPDATE_TITLE": "Concurent update detected",
   "SECURITY_POLICY_CONCURRENT_UPDATE_BODY": "Security policy can not be updated",
-  "REMOVE_SELECTED_SECURITY_POLICIES": "Remove selected security policies",
+  "REMOVE_SELECTED": "Remove selected",
   "NOT_ALL_SECURITY_POLICIES_REMOVED_TITLE": "Not all security polices have been removed",
   "NOT_ALL_SECURITY_POLICIES_REMOVED_BODY": "Out of {{policiesLength}} selected {{errorsLength}} weren't removed",
   "SECURITY_POLICY_REMOVED_TITLE": "Security policies removed",
